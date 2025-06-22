@@ -1,0 +1,10 @@
+/* Algemene layout */
+body {
+    background-color: #f1f2f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-box {
+    max-width: 500px;
+    margin: 60px auto;
+}
